@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Environment Variables
 
 Create a `.env` in `backend/` (or configure in Railway/Render) with:
@@ -12,3 +13,6 @@ FRONTEND_URL=
 
 - ALLOWED_ORIGINS: comma-separated, e.g. https://your-frontend.vercel.app,https://staging-frontend.vercel.app
 - PORT: provided by the platform; server uses `process.env.PORT || 5000`.
+=======
+# SRN_backend
+>>>>>>> e0378d1ab200680066ff47c0ac9bc032e5a9fced
