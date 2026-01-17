@@ -92,7 +92,7 @@ server.js
 ## 🔗 Related Repository
 
 - **Frontend Repository:**  
-  👉 https://github.com/your-username/frontend-repo-name
+  👉 https://github.com/J-joke-r/SRN_frontend
 
 ---
 
